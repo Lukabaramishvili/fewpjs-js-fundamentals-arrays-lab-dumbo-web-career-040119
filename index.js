@@ -2,4 +2,4 @@
 const append = 
 const prepend = 
 const removeLast = 
-const removeLast = 
+const removeFirst = 
